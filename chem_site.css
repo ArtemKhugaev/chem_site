@@ -1,0 +1,23 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+.header {
+    background-color: rgb(92, 129, 239);
+    margin-top: 10px;
+    width : 120%;
+}
+ul.menu{
+width : 50%;
+text-decoration: none;
+list-style: none;
+padding : 40px;
+margin: 10px;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+
+}
+
+h1{
+    text-align: center;
+}
